@@ -27,7 +27,7 @@ span {
 .links-nav:hover {
   color: #404bbf;
 }
-.links-nav:active {
+.links-nav:focus {
   color: #404bbf;
 }
 .contacts-link {
@@ -38,7 +38,7 @@ span {
 .contacts-link:hover {
   color: #404bbf;
 }
-.contacts-link:active {
+.contacts-link:focus {
   color: #404bbf;
 }
 .section-one {
@@ -64,7 +64,7 @@ span {
 .clicker:hover {
   color: #404bbf;
 }
-.clicker:active {
+.clicker:focus {
   color: #404bbf;
 }
 .headline-three {
