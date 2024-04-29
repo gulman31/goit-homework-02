@@ -32,6 +32,9 @@ span {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.contacts-link:hover {
+  color: #404bbf;
+}
 .section-one {
   background-color: #2e2f42;
 }
@@ -51,6 +54,9 @@ span {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+}
+.clicker:hover {
+  color: #404bbf;
 }
 .headline-three {
   font-weight: 500;
