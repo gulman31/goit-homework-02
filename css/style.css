@@ -24,6 +24,9 @@ span {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.links-nav:hover {
+  color: #404bbf;
+}
 .contacts-link {
   line-height: 1.5;
   letter-spacing: 0.02em;
