@@ -62,10 +62,10 @@ span {
   cursor: pointer;
 }
 .clicker:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .clicker:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 .headline-three {
   font-weight: 500;
